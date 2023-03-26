@@ -1,0 +1,9 @@
+{
+    "title":"Lottie Animations with React",
+    "desc":"Learn how to use Lottie animations with React in this demo application built with Next.js and Tailwind CSS. Our simple React component loads and renders animations from JSON files using the lottie-web library. Try it out and start integrating Lottie animations into your own React projects today!",
+    "url":"",
+    "ogImg":"/og.png",
+    "author":"Dilum Sanjaya",
+    "twitter":"@DilumSanjaya",
+    "keywords":"Lottie, React, Next.js"
+}
